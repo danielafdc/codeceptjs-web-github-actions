@@ -29,9 +29,3 @@ jobs:
 
       - name: Run CodeceptJS tests
         run: npx codeceptjs run
-      
-
-      
-     
-
->>>>>>> a0692bc421ddc6ae9363abbf13bfc5df2caeef98
