@@ -6,11 +6,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-<<<<<<< HEAD
     - cron: '0 9,15 * * 1,2,3,4,5'
-=======
-    - cron: '0 9,11,15,18 * * 1,2,3,4,5'
->>>>>>> a0692bc421ddc6ae9363abbf13bfc5df2caeef98
 
 jobs:
   e2e-tests:
